@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/email-chip-component/static/css/main.b1d7ec7b.css",
+    "main.js": "/email-chip-component/static/js/main.e340abe7.js",
+    "static/js/787.202feffb.chunk.js": "/email-chip-component/static/js/787.202feffb.chunk.js",
+    "index.html": "/email-chip-component/index.html",
+    "main.b1d7ec7b.css.map": "/email-chip-component/static/css/main.b1d7ec7b.css.map",
+    "main.e340abe7.js.map": "/email-chip-component/static/js/main.e340abe7.js.map",
+    "787.202feffb.chunk.js.map": "/email-chip-component/static/js/787.202feffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.e340abe7.js"
+  ]
+}
